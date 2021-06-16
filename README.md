@@ -32,7 +32,7 @@
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ### - ⚡ Fun fact:
- > A programmer's life has only two phases. He is either shooting zombies or creating them.
+ > A programmer's life has only two phases. He is either shooting zombies or creating them. Well, sometimes, he is the zombie.
 
 <!-- Icons -->
 
