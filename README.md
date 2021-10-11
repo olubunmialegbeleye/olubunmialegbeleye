@@ -10,6 +10,7 @@
 
 ### Technologies and Tools
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=7F52FF)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio&logoColor=3DDC84)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFCA28)&nbsp;
