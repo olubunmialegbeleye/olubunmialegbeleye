@@ -28,6 +28,7 @@
 #### [Are You Killing Your Device's Battery?](https://www.linkedin.com/pulse/you-killing-your-devices-battery-olubunmi-alegbeleye/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3B%2FeFoTYFOTiKmbiB4j%2FMljA%3D%3D)
 #### [Organizing Your Inbox - Simple Automation Tips for Gmail](https://medium.com/@olubunmi.alegbeleye/organizing-your-inbox-simple-automation-tips-for-gmail-b7d5344d0020)
 #### [A Regular Expression that matches Nigerian Phone Numbers.](https://olubunmi-alegbeleye.medium.com/a-regular-expression-that-matches-nigerian-phone-numbers-d00fb32b6949)
+#### [Validating Phone Numbers using Google's Libphonenumber Library](https://olubunmi-alegbeleye.medium.com/validating-phone-numbers-using-googles-libphonenumber-library-4c7066d8a0b6)
 
 ### - 📫 How to reach me:
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
