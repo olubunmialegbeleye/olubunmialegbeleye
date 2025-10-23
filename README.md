@@ -25,6 +25,7 @@
 
  
 ### - 📖 Articles
+#### [Gradle Convention Plugin for Android Developers — The Practical Beginner’s Guide](https://medium.com/@olubunmi-alegbeleye/gradle-convention-plugin-for-android-developers-the-practical-beginners-guide-db84f5b10bdd)
 #### [Location — the Android 14 (maybe 15 too) way](https://olubunmi-alegbeleye.medium.com/location-the-android-14-maybe-15-too-way-8567113de85f)
 #### [A Regular Expression that matches Nigerian Phone Numbers.](https://olubunmi-alegbeleye.medium.com/a-regular-expression-that-matches-nigerian-phone-numbers-d00fb32b6949)
 #### [Validating Phone Numbers using Google's Libphonenumber Library](https://olubunmi-alegbeleye.medium.com/validating-phone-numbers-using-googles-libphonenumber-library-4c7066d8a0b6)
